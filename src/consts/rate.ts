@@ -1,0 +1,1 @@
+export const RATE = [25, 50, 75, 100];
